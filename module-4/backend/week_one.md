@@ -13,6 +13,7 @@ Note: When you're done, submit a PR.
 >Debugger, console.log(), breakpoints
 
 3. What are some tools you need in order to unit test your JavaScript?
+<<<<<<< HEAD
 
 >Mocha, Chai, npm, node modules
 
@@ -69,3 +70,15 @@ the router in an http response.
 >It allows a user to continue browsing your site when they and others have initiated
 a ceratin amount code that would normally cause the program to stop and wait for the block of code to
 finish running before moving on to the next step since Ruby is single threaded
+=======
+4. What is the syntax for invoking a function? Give an example.
+5. What's `this` in JavaScript?
+6. What is Webpack and why is it useful?
+7. When/why do you want to use event delegation?
+8. What's `npm` and what do we use it for?
+
+#### Review  
+9. What's the MVC design pattern? Describe each part of MVC.
+10. What are a few ways to optimize a Rails application?
+11. What's a background worker? When would we want to use a background worker?
+>>>>>>> 621032c32b613355c852f5ffe0f3d8fef36a3691
